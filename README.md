@@ -21,31 +21,31 @@ met.
 
 #### Project Goal(s) and Supporting Objectives –
 
-        i.   Conduct exploration with HS Advantage Inc. to bring SQL Solutions Group up to date
+     i.   Conduct exploration with HS Advantage Inc. to bring SQL Solutions Group up to date
              on the current process and how it works.
-        ii.  Determine what changes to the current process are needed to ensure a consistent
+     ii.  Determine what changes to the current process are needed to ensure a consistent
              runtime of 1 hour or less is achieved.
-        iii. Develop and implement changes to increase the performance of moving data from a
+     iii. Develop and implement changes to increase the performance of moving data from a
              PostgreSQL 9.2 databse to a SQL Server database using SQL Server Integration
              Services (SSIS) from 8 hours to a target of 1 hour.
-        iv.  Conduct handover from SQL Solutions Group to HS Advantage Inc. and ensure they
+     iv.  Conduct handover from SQL Solutions Group to HS Advantage Inc. and ensure they
              understand how the new process works and how to maintain it.
              
 #### Project Outcomes and Deliverables –
 
-        i.   A positive outcome will be when the process of moving data takes 1 hour or less to
+     i.   A positive outcome will be when the process of moving data takes 1 hour or less to
              complete.
-        ii.  HS Advantage Inc. will be giving a SQL Server Integration Services (SSIS) solution
+     ii.  HS Advantage Inc. will be giving a SQL Server Integration Services (SSIS) solution
              that will meet the time constraints of this objective.
-        iii. HS Advantage Inc. will understand how the new process works and how to properly
+     iii. HS Advantage Inc. will understand how the new process works and how to properly
              maintain it.
              
 #### Projected Project End Date –
 
-The project should take 5 weeks to complete. This will give the
-project an approximate completion date of September 25th XXXX. This will ensure SQL
-Solutions Group has the time needed to perform proper evaluation, development,
-implementation, and training to HS Advantage Inc. IT staff.
+     i. The project should take 5 weeks to complete. This will give the
+        project an approximate completion date of September 25th XXXX. This will ensure SQL
+        Solutions Group has the time needed to perform proper evaluation, development,
+        implementation, and training to HS Advantage Inc. IT staff.
 
 ### IMPLEMENTATION and EVALUATION
 There will be 4 phases to this project. Each of which will contain a milestone to measure progress throughout.
